@@ -1,0 +1,61 @@
+[{
+    "product_id": "5f5b3b3b7f3b9b1b3b3b3e4f",
+    "name":"test",
+    "category": "test",
+    "brand": "test",
+    "description": "44tt the best product of the year 2025",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 1666,
+    "currency": "100"
+},
+{
+    "product_id": "5f5b3b3b7f3b9b1b3b3b3d6d",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "446rr blue jeans",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 100,
+    "currency": "100"
+},
+{
+    "product_id": "5f5b3b3b7f3b9b1b3b3b3e4c",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "446ee winter jacket",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 199,
+    "currency": "100"
+},
+{
+    "product_id": "5f5b3b3b7f3b9b1b3b3b6e4f",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "446ee aj white",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 188,
+    "currency": "100"
+},
+{
+    "product_id": "5f5b3b3b7f3b9b1b3b3d5b4d",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "4ee airforce 1 white",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 1778,
+    "currency": "100"
+},
+{
+    "product_id": "5f5b3b3b7f3b9b6b3c3b3b4f",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "44622 airmax",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 144,
+    "currency": "100"
+}
+]

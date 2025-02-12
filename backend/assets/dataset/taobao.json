@@ -1,0 +1,61 @@
+[{
+    "name": "test",
+    "product_id": "5f5b3b3b7f3b9b1b3b3b3b3d",
+    "category": "test",
+    "brand": "test",
+    "description": "446t the best product in 2025",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpgt",
+    "price": 124,
+    "currency": "100"
+},
+{
+    "product_id": "5f5b3b3b7f3b9b5b3b3b3b3d",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "446a the worst product of the year 2025 in china",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 200,
+    "currency": "100"
+},
+{
+    "product_id": "5f5b3b3b7f3b9b1b3b3b3b3e",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "44655 white aj",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 1454,
+    "currency": "100"
+},
+{
+    "product_id": "5f5b3b3b7f3b9b1b3b3b3b4f",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "44666 black adidas",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 177,
+    "currency": "100"
+},
+{
+    "product_id" :"5f5b3b3b7f3b9b1b3b3b3b1a",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "44655  gucci",
+    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 188,
+    "currency": "100"
+},
+{
+    "product_id": "5f5b3b3b7f3b9b1b3b3b3b5e",
+    "name": "test",
+    "category": "test",
+    "brand": "test",
+    "description": "4477 jean ck",
+    "image_url": "thttps://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+    "price": 177,
+    "currency": "100"
+}
+]

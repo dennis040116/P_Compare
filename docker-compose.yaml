@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile  # 后端的 Dockerfile 名称，如果使用上面提供的文件名，修改为 Dockerfile
+    container_name: backend
+    ports:
+      - "8080:8080"   # 映射容器内的 8080 端口到主机的 8080 端口
+    networks:
+      - mynetwork
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: dockerfile  # 前端的 Dockerfile 名称
+    container_name: frontend
+    ports:
+      - "3000:80"     # 映射容器内的 80 端口到主机的 80 端口
+    networks:
+      - mynetwork
+
+
+networks:
+  mynetwork:
+    driver: bridge
+

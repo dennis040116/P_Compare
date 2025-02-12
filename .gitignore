@@ -1,0 +1,16 @@
+*/.DS_Store
+.DS_Store
+*/bin/
+*/.idea
+*/.env
+*/.vscode
+*/.gitignore
+*/.git 
+*/.github
+*/License
+*/node_modules
+*/dist
+*/dist-ssr
+*/*.local
+*/debug.log
+
